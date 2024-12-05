@@ -1,0 +1,9 @@
+.tengah{
+    text-align: center;
+    background-color: red;
+    padding: 4px;
+    color: white;
+}
+.tengah h1{
+    text-align: right;
+}
